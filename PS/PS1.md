@@ -5,6 +5,6 @@
   <img src="../assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX - Team <Team Name> <br/>
+## SIH26-A0H-T171 - Team <TECH NOVA> <br/>
 
-### PS#1 
+### PS#1SIH26208
