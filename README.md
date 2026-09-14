@@ -42,7 +42,10 @@
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:SIH26075**
+* **Problem Statement Title: CAPACITY CONNECT A Digital Capacity Building and
+Learning Management Portal to support organizational training,
+competency development, and knowledge sharing through a centralized
+web-based platform.**
+* **Theme: Smart Education**
+* **Organization: Ministry of Earth Sciences (MoES)**, wherever applicable
